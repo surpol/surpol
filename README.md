@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Surya
 * 🌱 I am interested in web development
-* 🔭 Currently experienced in Java Backend Frameworks (Spring)
+* 🔭 Currently experienced in Java Backend Development
 * 🤔 I am looking to add more projects under my belt
 * 📫 Follow me on my blog: [suryapolina.com](https://suryapolina.com)
 
