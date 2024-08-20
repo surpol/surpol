@@ -2,7 +2,7 @@
 * 🌱 I am interested in web development
 * 🔭 Experienced in Java Backend Ecosystem
 * 😄 He/Him/His
-* 📫 Stay up to date with me: [suryapolina.com](https://suryapolina.com)
+* 📫 For more about me: [suryapolina.com](https://suryapolina.com)
 
 <!--
 **surpol/surpol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
