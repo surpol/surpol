@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Surya
 * 🌱 I am interested in web development
-* 🔭 Currently experienced in Java Backend Development
-* 🤔 I am looking to add more projects under my belt
+* 🔭 Experienced in Java Backend Ecosystem
+* 😄 He/Him/His
 * 📫 Stay up to date with me: [suryapolina.com](https://suryapolina.com)
 
 <!--
