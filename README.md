@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Surya
-* 🌱 I am interested in web development
+* I am interested in web development
 * he/him/his
 ## **Tech Stack**
 * **Frontend**: Next.js, Vanilla (HTML/CSS/JS)
