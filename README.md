@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Surya
 * I like web development
+* George Mason University Class of 2021
 * Currently building southernrentalcars.com
 * he/him/his
 ## **Tech Stack**
