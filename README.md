@@ -7,4 +7,4 @@
 * **Frontend**: Reactjs, Vanilla HTML/CSS/JS
 * **Backend**: Node.js, Spring Boot, Flask
 * **Databases**: Postgres, SQLite, MongoDB
-* **Technology interests**: Web design patterns, database design, OSI model, computer networks, cryptography
+* **Technology interests**: Web design, database design, OSI model, computer networks, cryptography
