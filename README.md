@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Surya
 * I like web development
+* I like understanding information with visualizing data 
 * George Mason University | Class of 2021
 * he/him/his
 ## **Tech Stack**
