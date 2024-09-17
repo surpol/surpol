@@ -5,6 +5,7 @@
 * he/him/his
 ## **Tech Stack**
 * **Frontend**: Reactjs, Vanilla html/css
-* **Backend**: Node.js, Spring Boot, Flask
+* **Backend**: Node.js, Spring Boot
 * **Databases**: Postgres, SQLite, MongoDB
+* **Other**: Next.js (full-stack)
 * **Interests**: Web design, database design, OSI model, computer networks, cryptography
