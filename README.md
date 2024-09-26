@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a George Mason Patriot
+## Hi there 👋 I'm a George Mason Alum
 * I like building web things
 * he/him/his
 ## **Tech Stack**
