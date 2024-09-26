@@ -1,6 +1,5 @@
-## Hi there 👋 I'm Surya
+## Hi there 👋 I'm a George Mason Patriot
 * I like building web things
-* George Mason University Alum
 * he/him/his
 ## **Tech Stack**
 * **Frontend**: Reactjs, vanilla
