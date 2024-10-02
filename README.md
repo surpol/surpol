@@ -4,6 +4,6 @@
 ## **Tech Stack**
 * **Frontend**: Reactjs, vanilla
 * **Backend**: Node.js, Spring Boot
-* **Databases**: Relational and unstructured (notable experience:Postgres, SQLite, MongoDB)
+* **Databases**: Relational and unstructured (Postgres, SQLite, MongoDB)
 * **Other**: Next.js (full-stack)
 * **Interests**: Web design, database design, OSI model, computer networks, cryptography
